@@ -79,6 +79,12 @@ body {
 .u-position-relative {
   position: relative !important; }
 
+.link {
+  text-decoration: none;
+  color: #f7efe2; }
+  .link:hover {
+    color: #2998ff; }
+
 .section {
   padding: 2rem;
   text-align: left;
