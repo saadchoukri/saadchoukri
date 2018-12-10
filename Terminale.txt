@@ -1,0 +1,52 @@
+﻿<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Saad Choukri</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" media="screen" href="css/style.css" />
+</head>
+
+<body>
+    <div class="row title u-margin-top-medium u-position-relative">
+        <div class="title__name">
+            Saâd Choukri
+        </div>
+        <div class="title__email"> 
+            Email: saadchoukri00@gmail.com
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-2-of-3">
+            <div class="section">
+                Vous trouvez ici quelques documents rassemblant des problèmes que j'ai corrigé, qui ont pour but la préparation de l'élève à l'examen national.
+              <h2>Problèmes pour la préparation à l'examen national</h2>
+                <ul>
+                    <li><a href="Problèmes_préparation_Bac.pdf">Problèmes d'analyse</a></li>
+                </ul>
+                
+        </div>
+        
+        <div class="col-1-of-3">
+            <div class="sidenote">
+                <a class="link" href="index.html">Accueil</a>
+                <ul>
+                    <li>Notes de cours</li>
+                    <li>Olympiades</li>
+                    <li>Concours général</li>
+                    <li>Tronc commun scientifique</li>
+                    <li>Seconde année du Lycée</li>
+                    <li>Terminale</li>
+                    <li>Mathématiques supérieures</li>
+                    <li>Mathématiques spéciales</li> 
+                    <li>Recommandations</li>
+                    <li>Divers</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    
+</body>
+</html>
